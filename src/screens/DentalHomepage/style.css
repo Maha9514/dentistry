@@ -1,0 +1,1286 @@
+.dental-homepage {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.dental-homepage .div {
+  background-color: #ffffff;
+  height: 4800px;
+  overflow: hidden;
+  position: relative;
+  width: 1840px;
+}
+
+.dental-homepage .FOOTER {
+  background-color: #1e1e1e;
+  height: 432px;
+  left: 0;
+  position: absolute;
+  top: 4368px;
+  width: 1840px;
+}
+
+.dental-homepage .COLUMN {
+  height: 224px;
+  left: 64px;
+  position: absolute;
+  top: 76px;
+  width: 276px;
+}
+
+.dental-homepage .text-wrapper {
+  color: #a7adaf;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 1.26px;
+  line-height: 36px;
+  position: absolute;
+  top: 42px;
+  width: 271px;
+}
+
+.dental-homepage .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.63px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 216px;
+}
+
+.dental-homepage .COLUMN-2 {
+  height: 224px;
+  left: 352px;
+  position: absolute;
+  top: 76px;
+  width: 276px;
+}
+
+.dental-homepage .COLUMN-3 {
+  height: 224px;
+  left: 640px;
+  position: absolute;
+  top: 76px;
+  width: 276px;
+}
+
+.dental-homepage .COLUMN-4 {
+  height: 320px;
+  left: 927px;
+  position: absolute;
+  top: 76px;
+  width: 319px;
+}
+
+.dental-homepage .element-west-street {
+  color: #a7adaf;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 1.26px;
+  line-height: 26px;
+  position: absolute;
+  top: 47px;
+  width: 207px;
+}
+
+.dental-homepage .element-info {
+  color: #a7adaf;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 42px;
+  letter-spacing: 1.26px;
+  line-height: 36px;
+  position: absolute;
+  top: 138px;
+  width: 271px;
+}
+
+.dental-homepage .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 0.63px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 216px;
+}
+
+.dental-homepage .icon-mail {
+  height: 24px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 180px;
+  width: 24px;
+}
+
+.dental-homepage .icon-phone {
+  height: 24px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 144px;
+  width: 24px;
+}
+
+.dental-homepage .COLUMN-5 {
+  height: 207px;
+  left: 1359px;
+  position: absolute;
+  top: 76px;
+  width: 421px;
+}
+
+.dental-homepage .text-wrapper-4 {
+  color: #a7adaf;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 216px;
+  letter-spacing: 0.98px;
+  line-height: 26px;
+  position: absolute;
+  text-align: right;
+  top: 181px;
+  white-space: nowrap;
+}
+
+.dental-homepage .FORM {
+  height: 48px;
+  left: 1px;
+  position: absolute;
+  top: 53px;
+  width: 420px;
+}
+
+.dental-homepage .overlap-group {
+  border: 1px solid;
+  border-color: #ffffff;
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 288px;
+}
+
+.dental-homepage .text-wrapper-5 {
+  color: #a7adaf;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0.98px;
+  line-height: 26px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.dental-homepage .overlap {
+  background-color: #ffffff;
+  height: 48px;
+  left: 288px;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.dental-homepage .submit {
+  color: #282828;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 44px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.dental-homepage .SOCIAL {
+  height: 20px;
+  left: 1px;
+  position: absolute;
+  top: 136px;
+  width: 416px;
+}
+
+.dental-homepage .REVIEWS-SECTION {
+  height: 944px;
+  left: 162px;
+  position: absolute;
+  top: 3288px;
+  width: 1518px;
+}
+
+.dental-homepage .overlap-2 {
+  height: 944px;
+  position: relative;
+  width: 1526px;
+}
+
+.dental-homepage .image {
+  height: 688px;
+  left: 910px;
+  position: absolute;
+  top: 0;
+  width: 560px;
+}
+
+.dental-homepage .img {
+  height: 800px;
+  left: 46px;
+  position: absolute;
+  top: 144px;
+  width: 560px;
+}
+
+.dental-homepage .be-featured {
+  color: transparent;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 666px;
+  letter-spacing: -0.64px;
+  line-height: normal;
+  position: absolute;
+  top: 64px;
+  width: 640px;
+}
+
+.dental-homepage .span {
+  color: #282828;
+  letter-spacing: -0.41px;
+}
+
+.dental-homepage .text-wrapper-6 {
+  color: #5ba3bb;
+  letter-spacing: -0.41px;
+}
+
+.dental-homepage .QUOTE {
+  height: 923px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 1526px;
+}
+
+.dental-homepage .overlap-3 {
+  height: 267px;
+  left: 734px;
+  position: absolute;
+  top: 656px;
+  width: 723px;
+}
+
+.dental-homepage .text-wrapper-7 {
+  color: #1e1e1e;
+  font-family: "Kollektif-Italic", Helvetica;
+  font-size: 23px;
+  font-style: italic;
+  font-weight: 400;
+  left: 578px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 186px;
+  white-space: nowrap;
+}
+
+.dental-homepage .overlap-group-2 {
+  height: 267px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 723px;
+}
+
+.dental-homepage .text-wrapper-8 {
+  color: #e0f1f7;
+  font-family: "Playfair Display", Helvetica;
+  font-size: 200px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.dental-homepage .p {
+  color: #5ba3bb;
+  font-family: "Playfair Display", Helvetica;
+  font-size: 35px;
+  font-style: italic;
+  font-weight: 400;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 92px;
+  width: 664px;
+}
+
+.dental-homepage .text-wrapper-9 {
+  color: #1e1e1e;
+  font-family: "Kollektif-Italic", Helvetica;
+  font-size: 23px;
+  font-style: italic;
+  font-weight: 400;
+  left: 1419px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 51px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.dental-homepage .text-wrapper-10 {
+  color: #1e1e1e;
+  font-family: "Kollektif-Italic", Helvetica;
+  font-size: 23px;
+  font-style: italic;
+  font-weight: 400;
+  left: -46px;
+  letter-spacing: 0;
+  line-height: 46px;
+  position: absolute;
+  top: 820px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.dental-homepage .overlap-4 {
+  height: 1392px;
+  left: 0;
+  position: absolute;
+  top: 1784px;
+  width: 1842px;
+}
+
+.dental-homepage .SERVICES-SECTION {
+  height: 744px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1842px;
+}
+
+.dental-homepage .overlap-5 {
+  background: linear-gradient(180deg, rgb(203.69, 221.37, 228.44) 0%, rgb(224.87, 241.37, 247.56) 100%);
+  height: 744px;
+  position: relative;
+  width: 1840px;
+}
+
+.dental-homepage .text-wrapper-11 {
+  color: #282828;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 62px;
+  letter-spacing: -0.64px;
+  line-height: normal;
+  position: absolute;
+  top: 132px;
+  width: 516px;
+}
+
+.dental-homepage .widget {
+  height: 218px;
+  left: 633px;
+  position: absolute;
+  top: 139px;
+  width: 285px;
+}
+
+.dental-homepage .text-wrapper-12 {
+  color: #a7adaf;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 10px;
+  letter-spacing: 1.26px;
+  line-height: 36px;
+  position: absolute;
+  top: 101px;
+  width: 271px;
+}
+
+.dental-homepage .text-wrapper-13 {
+  color: #000000;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0.63px;
+  line-height: normal;
+  position: absolute;
+  top: 59px;
+  white-space: nowrap;
+  width: 272px;
+}
+
+.dental-homepage .img-2 {
+  height: 40px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.dental-homepage .widget-2 {
+  height: 218px;
+  left: 1067px;
+  position: absolute;
+  top: 139px;
+  width: 280px;
+}
+
+.dental-homepage .text-wrapper-14 {
+  color: #a7adaf;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 5px;
+  letter-spacing: 1.26px;
+  line-height: 36px;
+  position: absolute;
+  top: 101px;
+  width: 271px;
+}
+
+.dental-homepage .text-wrapper-15 {
+  color: #000000;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0.63px;
+  line-height: normal;
+  position: absolute;
+  top: 59px;
+  width: 272px;
+}
+
+.dental-homepage .widget-3 {
+  height: 218px;
+  left: 1500px;
+  position: absolute;
+  top: 139px;
+  width: 280px;
+}
+
+.dental-homepage .text-wrapper-16 {
+  color: #000000;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 4px;
+  letter-spacing: 0.63px;
+  line-height: normal;
+  position: absolute;
+  top: 59px;
+  width: 238px;
+}
+
+.dental-homepage .widget-4 {
+  height: 218px;
+  left: 634px;
+  position: absolute;
+  top: 403px;
+  width: 284px;
+}
+
+.dental-homepage .text-wrapper-17 {
+  color: #a7adaf;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 7px;
+  letter-spacing: 1.26px;
+  line-height: 36px;
+  position: absolute;
+  top: 101px;
+  width: 271px;
+}
+
+.dental-homepage .text-wrapper-18 {
+  color: #000000;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 0.63px;
+  line-height: normal;
+  position: absolute;
+  top: 59px;
+  width: 274px;
+}
+
+.dental-homepage .widget-5 {
+  height: 215px;
+  left: 1070px;
+  position: absolute;
+  top: 406px;
+  width: 280px;
+}
+
+.dental-homepage .text-wrapper-19 {
+  color: #a7adaf;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 3px;
+  letter-spacing: 1.26px;
+  line-height: 36px;
+  position: absolute;
+  top: 98px;
+  width: 271px;
+}
+
+.dental-homepage .text-wrapper-20 {
+  color: #000000;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 2px;
+  letter-spacing: 0.63px;
+  line-height: normal;
+  position: absolute;
+  top: 56px;
+  width: 274px;
+}
+
+.dental-homepage .icon {
+  height: 34px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 34px;
+}
+
+.dental-homepage .widget-6 {
+  height: 218px;
+  left: 1499px;
+  position: absolute;
+  top: 403px;
+  width: 283px;
+}
+
+.dental-homepage .text-wrapper-21 {
+  color: #a7adaf;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 6px;
+  letter-spacing: 1.26px;
+  line-height: 36px;
+  position: absolute;
+  top: 101px;
+  width: 271px;
+}
+
+.dental-homepage .text-wrapper-22 {
+  color: #000000;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 5px;
+  letter-spacing: 0.63px;
+  line-height: normal;
+  position: absolute;
+  top: 59px;
+  width: 274px;
+}
+
+.dental-homepage .TEAM-SECTION {
+  height: 720px;
+  left: 144px;
+  position: absolute;
+  top: 672px;
+  width: 1427px;
+}
+
+.dental-homepage .overlap-6 {
+  height: 720px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 592px;
+}
+
+.dental-homepage .outline {
+  border: 1px solid;
+  border-color: #5ba3bb;
+  height: 688px;
+  left: 32px;
+  opacity: 0.5;
+  position: absolute;
+  top: 32px;
+  transform: rotate(180deg);
+  width: 560px;
+}
+
+.dental-homepage .image-2 {
+  height: 688px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 560px;
+}
+
+.dental-homepage .text-wrapper-23 {
+  color: #282828;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 783px;
+  letter-spacing: -0.64px;
+  line-height: normal;
+  position: absolute;
+  top: 204px;
+  width: 640px;
+}
+
+.dental-homepage .overlap-7 {
+  height: 212px;
+  left: 783px;
+  position: absolute;
+  top: 405px;
+  width: 560px;
+}
+
+.dental-homepage .text-wrapper-24 {
+  color: #a7adaf;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 0;
+  width: 560px;
+}
+
+.dental-homepage .CTA-DR {
+  height: 40px;
+  left: 1px;
+  position: absolute;
+  top: 171px;
+  width: 218px;
+}
+
+.dental-homepage .request-and-wrapper {
+  background-image: url(../../../static/img/button.svg);
+  background-size: 100% 100%;
+  height: 40px;
+  position: relative;
+  width: 216px;
+}
+
+.dental-homepage .request-and {
+  color: #ffffff;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 6px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  width: 201px;
+}
+
+.dental-homepage .ABOUT-SECTION {
+  height: 760px;
+  left: -2px;
+  position: absolute;
+  top: 880px;
+  width: 1571px;
+}
+
+.dental-homepage .overlap-8 {
+  height: 760px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 770px;
+}
+
+.dental-homepage .top-left-background {
+  background: linear-gradient(180deg, rgb(203.69, 221.37, 228.44) 0%, rgb(224.87, 241.37, 247.56) 100%);
+  height: 688px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 538px;
+}
+
+.dental-homepage .image-3 {
+  height: 688px;
+  left: 66px;
+  position: absolute;
+  top: 72px;
+  width: 704px;
+}
+
+.dental-homepage .text-wrapper-25 {
+  color: #282828;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  left: 927px;
+  letter-spacing: -0.64px;
+  line-height: normal;
+  position: absolute;
+  top: 132px;
+  width: 640px;
+}
+
+.dental-homepage .text-wrapper-26 {
+  color: #a7adaf;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 930px;
+  letter-spacing: 0;
+  line-height: 36px;
+  position: absolute;
+  top: 328px;
+  width: 560px;
+}
+
+.dental-homepage .CTA-more {
+  all: unset;
+  box-sizing: border-box;
+  height: 23px;
+  left: 1145px;
+  position: absolute;
+  top: 608px;
+  width: 73px;
+}
+
+.dental-homepage .overlap-group-3 {
+  height: 23px;
+  position: relative;
+  width: 71px;
+}
+
+.dental-homepage .button {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: #5ba3bb;
+  height: 23px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 69px;
+}
+
+.dental-homepage .learn-more {
+  color: #5ba3bb;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  white-space: nowrap;
+}
+
+.dental-homepage .overlap-wrapper {
+  height: 40px;
+  left: 930px;
+  position: absolute;
+  top: 600px;
+  width: 170px;
+}
+
+.dental-homepage .div-wrapper {
+  background-image: url(../../../static/img/button-2.svg);
+  background-size: 100% 100%;
+  height: 40px;
+  position: relative;
+  width: 168px;
+}
+
+.dental-homepage .request-and-2 {
+  color: #ffffff;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.dental-homepage .overlap-9 {
+  height: 861px;
+  left: 62px;
+  position: absolute;
+  top: -53px;
+  width: 1780px;
+}
+
+.dental-homepage .MAIN-SECTION {
+  height: 861px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1780px;
+}
+
+.dental-homepage .overlap-10 {
+  height: 861px;
+  position: relative;
+  width: 1778px;
+}
+
+.dental-homepage .VISUAL {
+  height: 861px;
+  left: 562px;
+  position: absolute;
+  top: 0;
+  width: 1216px;
+}
+
+.dental-homepage .overlap-11 {
+  height: 861px;
+  position: relative;
+}
+
+.dental-homepage .overlap-group-4 {
+  height: 861px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1216px;
+}
+
+.dental-homepage .top-right-background {
+  background: linear-gradient(180deg, rgb(203.69, 221.37, 228.44) 0%, rgb(224.87, 241.37, 247.56) 100%);
+  height: 556px;
+  left: 288px;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  width: 928px;
+}
+
+.dental-homepage .OVERLAYS {
+  height: 712px;
+  left: 0;
+  position: absolute;
+  top: 149px;
+  width: 1152px;
+}
+
+.dental-homepage .overlay {
+  height: 144px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 144px;
+}
+
+.dental-homepage .overlay-2 {
+  background-color: #ffffff;
+  height: 144px;
+  left: 0;
+  opacity: 0.5;
+  position: absolute;
+  top: 144px;
+  width: 144px;
+}
+
+.dental-homepage .overlay-3 {
+  background-color: #ffffff;
+  height: 144px;
+  left: 0;
+  position: absolute;
+  top: 288px;
+  width: 144px;
+}
+
+.dental-homepage .overlay-4 {
+  background-color: #ffffff80;
+  height: 144px;
+  left: 144px;
+  position: absolute;
+  top: 288px;
+  width: 144px;
+}
+
+.dental-homepage .overlay-5 {
+  background-color: #ffffff80;
+  height: 144px;
+  left: 144px;
+  position: absolute;
+  top: 568px;
+  width: 144px;
+}
+
+.dental-homepage .overlay-6 {
+  background-color: #ffffff80;
+  height: 144px;
+  left: 288px;
+  position: absolute;
+  top: 0;
+  width: 144px;
+}
+
+.dental-homepage .overlay-7 {
+  background-color: #ffffff80;
+  height: 144px;
+  left: 720px;
+  position: absolute;
+  top: 568px;
+  width: 144px;
+}
+
+.dental-homepage .overlay-8 {
+  background-color: #ffffff80;
+  height: 144px;
+  left: 864px;
+  position: absolute;
+  top: 424px;
+  width: 144px;
+}
+
+.dental-homepage .overlay-9 {
+  background-color: #ffffff80;
+  height: 144px;
+  left: 1008px;
+  position: absolute;
+  top: 568px;
+  width: 144px;
+}
+
+.dental-homepage .SOCIAL-2 {
+  height: 180px;
+  left: 1172px;
+  position: absolute;
+  top: 220px;
+  width: 20px;
+}
+
+.dental-homepage .arrow-down {
+  height: 56px;
+  left: 1178px;
+  object-fit: cover;
+  position: absolute;
+  top: 725px;
+  width: 7px;
+}
+
+.dental-homepage .arrow-up {
+  height: 56px;
+  left: 1178px;
+  object-fit: cover;
+  position: absolute;
+  top: 652px;
+  width: 7px;
+}
+
+.dental-homepage .treat-yourself-with {
+  color: transparent;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 96px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -0.96px;
+  line-height: normal;
+  position: absolute;
+  top: 195px;
+}
+
+.dental-homepage .text-wrapper-27 {
+  color: #282828;
+  letter-spacing: -0.92px;
+}
+
+.dental-homepage .text-wrapper-28 {
+  color: #5ba3bb;
+  letter-spacing: -0.92px;
+}
+
+.dental-homepage .SUBSECTION {
+  background-color: #ffffff;
+  height: 136px;
+  left: 2px;
+  position: absolute;
+  top: 581px;
+  width: 848px;
+}
+
+.dental-homepage .widget-7 {
+  height: 109px;
+  left: 15px;
+  position: absolute;
+  top: 19px;
+  width: 174px;
+}
+
+.dental-homepage .text-wrapper-29 {
+  color: #a7adaf;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 1px;
+  letter-spacing: 1.26px;
+  line-height: normal;
+  position: absolute;
+  top: 75px;
+  width: 104px;
+}
+
+.dental-homepage .arrow {
+  height: 7px;
+  left: 121px;
+  object-fit: cover;
+  position: absolute;
+  top: 82px;
+  width: 10px;
+}
+
+.dental-homepage .text-wrapper-30 {
+  color: #000000;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.63px;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  width: 168px;
+}
+
+.dental-homepage .text-wrapper-31 {
+  color: #5ba3bb;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 1px;
+  letter-spacing: -0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.dental-homepage .widget-8 {
+  height: 109px;
+  left: 287px;
+  position: absolute;
+  top: 19px;
+  width: 174px;
+}
+
+.dental-homepage .widget-9 {
+  height: 109px;
+  left: 576px;
+  position: absolute;
+  top: 19px;
+  width: 262px;
+}
+
+.dental-homepage .text-wrapper-32 {
+  color: #000000;
+  font-family: "Kollektif-Regular", Helvetica;
+  font-size: 21px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.63px;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  width: 256px;
+}
+
+.dental-homepage .HEADER {
+  background-color: transparent;
+  height: 40px;
+  left: 2px;
+  position: absolute;
+  top: 80px;
+  width: 1712px;
+}
+
+.dental-homepage .TOP-CTA {
+  height: 40px;
+  left: 1544px;
+  position: absolute;
+  top: 0;
+  width: 170px;
+}
+
+.dental-homepage .request-and-3 {
+  color: #ffffff;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 10px;
+  font-weight: 700;
+  left: 17px;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+  white-space: nowrap;
+}
+
+.dental-homepage .navbar {
+  height: 14px;
+  left: 386px;
+  position: absolute;
+  top: 14px;
+  width: 857px;
+}
+
+.dental-homepage .text-wrapper-33 {
+  color: #5ba3bb;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 1.2px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dental-homepage .text-wrapper-34 {
+  color: #282828;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 126px;
+  letter-spacing: 1.2px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dental-homepage .text-wrapper-35 {
+  color: #282828;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 259px;
+  letter-spacing: 1.2px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dental-homepage .text-wrapper-36 {
+  color: #282828;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 503px;
+  letter-spacing: 1.2px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dental-homepage .text-wrapper-37 {
+  color: #282828;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 658px;
+  letter-spacing: 1.2px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dental-homepage .text-wrapper-38 {
+  color: #282828;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 12px;
+  font-weight: 700;
+  left: 781px;
+  letter-spacing: 1.2px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.dental-homepage .LOGO {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 185px;
+}
+
+.dental-homepage .denta-pro {
+  color: transparent;
+  font-family: "Kollektif-Bold", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 71px;
+  letter-spacing: 0.24px;
+  line-height: normal;
+  position: absolute;
+  top: 6px;
+  width: 112px;
+}
+
+.dental-homepage .text-wrapper-39 {
+  color: #282828;
+  letter-spacing: 0.06px;
+}
+
+.dental-homepage .text-wrapper-40 {
+  color: #5ba3bb;
+  letter-spacing: 0.06px;
+}
+
+.dental-homepage .tooth {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 61px;
+}
